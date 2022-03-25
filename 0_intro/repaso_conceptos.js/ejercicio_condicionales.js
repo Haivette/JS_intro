@@ -17,8 +17,15 @@ if(numero%5 === 0 ) {
 // código "sad" él quiere, desplegar el mensaje "go for tacos bro, tacos = smile"
 // ** Desplegar el mensaje "código inválido" si el código no cumple con las condiciones anteriores
 
-var codigo = 'happy';
+// var codigo = 'happy';
 
+// if(codigo === 'happy') {
+//     console.log('cool bro, the life is short');
+// } else if (codigo === 'sad') {
+//     console.log('go for tacos bro, tacos = smile');
+// } else {
+//     console.log('código inválido');
+// }
 
 
 
@@ -27,9 +34,26 @@ var codigo = 'happy';
 // jerarquía de usuario de acuerdo a su nivel, las jerarquías son "paladin" : nivel 0 -10,
 // "caballero dorado" : nivel 11 - 30, "dios destructor": 31 - 50.
 
+// var nivel = -1;
+
+// if(nivel <= 10 && nivel >= 0) {
+//     console.log('paladin');
+// } else if (nivel <= 30 && nivel >= 11) {
+//     console.log('caballero dorado');
+// } else if (nivel <= 50 && nivel >= 31) {
+//     console.log('dios destructor');
+// } else {
+//     console.log('nivel inválido')
+// }
+
+// && -> AND. Uso: Necesitamos que todas las condiciones se cumplan para entregar un TRUE.
+
+
 
 
 // Crea una aplicación web empleando JavaScript que permita a dos usuarios jugar una partida de piedra, papel o tijeras.
+
+
 
 // Pide al jugador1 y al jugador2 que escriban su elección mediante prompts. Compara los valores ingresados y muestra en pantalla, mediante un alert o console.log, quién fue el jugador ganador. && ||
 

@@ -10,6 +10,14 @@ function evaluarNumero(numero) {
     }
 }
 
+let res1 = evaluarNumero(1)
+// console.log(res1);
+// evaluarNumero(100);
+// evaluarNumero(-50);
+// evaluarNumero(-30.5);
+// evaluarNumero(0);
+// evaluarNumero('hola');
+
 // evaluarNumero(1);
 // evaluarNumero(100);
 // evaluarNumero(-50);

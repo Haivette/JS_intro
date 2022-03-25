@@ -1,0 +1,54 @@
+.bg-purple {
+    background-color: purple !important;
+}
+
+.text-purple {
+    color: purple;
+}
+
+.width-80 {
+    width: 80%;
+}
+
+.btn-purple {
+    border: rgb(68, 7, 68);
+    background-color: purple;
+    color: white;
+}
+
+.btn-purple:hover {
+    background-color: rgb(68, 7, 68);
+}
+
+.btn-aqua {
+    border: #058383;
+    background-color: #00CDCD;
+    color: #F3F8FB;
+}
+
+.btn-aqua:hover {
+    background-color: #058383;
+    color: #F3F8FB;
+}
+
+.align-right {
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+
+.button-width {
+    width: 10rem;
+}
+
+.link-aqua {
+    color: #00CDCD;
+    text-decoration: none;
+}
+
+.link-aqua:hover {
+    color: #058383
+}
+
+.no-border {
+    border: 0!important
+}
